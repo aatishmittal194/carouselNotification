@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/aatishmittal/CustomNotification/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/aatishmittal/CustomNotification/app/build/intermediates/pre-dexed/debug/com.android.volley-volley-1.0.0_62224d00e250ae69a7142dfad10d14d8b5617af7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aatishmittal/CustomNotification/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/aatishmittal/CustomNotification/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_aff19c20e19ccd08f96d26cf149d7e2b7b60c658.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aatishmittal/CustomNotification/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/aatishmittal/CustomNotification/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_703bf71f32d7b4c1cff775d1530f622850c28671.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aatishmittal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/aatishmittal/CustomNotification/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_f3a8b1c1a8dcebf631a133a8019cfb2a6095763c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aatishmittal/CustomNotification/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/aatishmittal/CustomNotification/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_cf19e94c209108e5a406a2fcf4dc3982b60de3f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aatishmittal/CustomNotification/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/aatishmittal/CustomNotification/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_1c229880e368133162dac081c5d05115fd4dbbd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aatishmittal/CustomNotification/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/aatishmittal/CustomNotification/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_749076621033cd079a1c95c61ca862cca77bf3ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aatishmittal/CustomNotification/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/aatishmittal/CustomNotification/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_fc2dd327669e92a6f4924f97a7ca6cdd7d92d897.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aatishmittal/CustomNotification/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/aatishmittal/CustomNotification/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_cf2143b30d26087acb26672d81e4a16a6fb73e24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aatishmittal/CustomNotification/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/aatishmittal/CustomNotification/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5725d950850ed225125c5c10dd3e480c71eb3d82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aatishmittal/CustomNotification/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/aatishmittal/CustomNotification/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_862aa2ea683c892b5729277e769f4ca59bded8d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aatishmittal/CustomNotification/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/aatishmittal/CustomNotification/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_876796185b382c4c27402480c9361fae2e713ff4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aatishmittal/CustomNotification/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/aatishmittal/CustomNotification/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_457df47ef14e90f168857ed705a202c495a1e18b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aatishmittal/CustomNotification/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/aatishmittal/CustomNotification/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_292a08090b9754700683d395636e43cc546de68d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aatishmittal/CustomNotification/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/aatishmittal/CustomNotification/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_87ce2cadf4a9e4aae7662968209f0e3dfce421d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aatishmittal/CustomNotification/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/aatishmittal/CustomNotification/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_88c821da019117818bbade5657adfa58b645ec1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aatishmittal/CustomNotification/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/aatishmittal/CustomNotification/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_dc4115e8efe2e8939cc81a69b42932075cfb09f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aatishmittal/CustomNotification/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/aatishmittal/CustomNotification/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_e7c78cd2c4022f67c04d73eccd92c704925d9c05.jar" />
+    </item>
+
+</items>
